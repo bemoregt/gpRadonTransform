@@ -1,9 +1,9 @@
 # ofxRadonTransform
 Radon Transform(Sinogram) of Image for Openframeworks.
 
-![fft2 example]( https://github.com/bemoregt/ofx2DFFT/blob/master/fft2.jpg "example")
+![sino example]( https://github.com/bemoregt/ofx2DFFT/blob/master/sino.png "example")
 
-![fft2 example2]( https://github.com/bemoregt/ofx2DFFT/blob/master/test2.png "example2")
+![sino example2]( https://github.com/bemoregt/ofx2DFFT/blob/master/sino.png "example2")
 
 ### Dependency
 - OpenFrameworks 0.10.1
