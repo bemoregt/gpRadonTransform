@@ -5,6 +5,11 @@ Radon Transform(Sinogram) of Image for Openframeworks.
 
 ![sino example2]( https://github.com/bemoregt/ofxRadonTransform/blob/master/sino2.png "example2")
 
+### Algorithm
+- Sinogram is the Hough Transform for Grayscale Image.
+- Sinogram is a kind of Reciprocal Transform, like a Fourier Transform.
+- Form Fourier Slice Theorem, Sinogram is implemented from Polar 1D FFT.
+
 ### Dependency
 - OpenFrameworks 0.10.1
 - ofxCv
