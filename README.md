@@ -26,6 +26,7 @@ Radon Transform(Sinogram) of Image for Openframeworks.
 - inverse Radon Transform for reconstruction
 - Fast Hough Transform using Radon Transform
 - 1D Entropy Plot.
+- Blob Detection for labeling the peaks.
 
 ### Reference
 - Original Code from : https://github.com/fan2fan/OpenCV-Radon.git
