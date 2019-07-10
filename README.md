@@ -3,7 +3,7 @@ Radon Transform(Sinogram) of Image for Openframeworks.
 
 ![sino example]( https://github.com/bemoregt/ofxRadonTransform/blob/master/sino.png "example")
 
-![sino example2]( https://github.com/bemoregt/ofxRadonTransform/blob/master/sino.png "example2")
+![sino example2]( https://github.com/bemoregt/ofxRadonTransform/blob/master/sino2.png "example2")
 
 ### Dependency
 - OpenFrameworks 0.10.1
