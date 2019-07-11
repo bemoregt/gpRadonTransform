@@ -26,6 +26,7 @@ Radon Transform(Sinogram) of Image for Openframeworks.
 - OSX Mojave
 
 ### Next Plan
+- Elapsed Time Display per resolution.
 - inverse Radon Transform for reconstruction
 - Fast Hough Transform using Radon Transform
 - 1D Entropy Plot.
