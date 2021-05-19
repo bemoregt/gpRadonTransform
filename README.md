@@ -10,7 +10,7 @@ Radon Transform(Sinogram) of Image for Openframeworks.
 ![sino example4]( https://github.com/bemoregt/ofxRadonTransform/blob/master/test4.png "example4")
 
 ### Algorithm
-- Sinogram is the Hough Transform for Grayscale Image.
+- Sinogram is the Radon Transform for Grayscale Image.
 - Sinogram is a kind of Reciprocal Transform, like a Fourier Transform.
 - From Fourier Slice Theorem, Sinogram can be implemented from Polar 1D FFT.
 - Like the Fourier space, Phase space, and Hough space, Thess second spaces are very important to get more detailed features by post processing. But most opensource libraries(OpenCV, etc) does not give 2nd spaces.
